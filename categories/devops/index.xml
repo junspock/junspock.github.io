@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DevOps on Hugo Future Imperfect</title>
+    <link>/categories/devops/</link>
+    <description>Recent content in DevOps on Hugo Future Imperfect</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 20 Apr 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/devops/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>첫 번째 포스트입니다.</title>
+      <link>/blog/first_post/</link>
+      <pubDate>Fri, 20 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/first_post/</guid>
+      <description> Markdown is a way to style text on the web. You control the display of the document;formatting words as bold or italic, addinf images , and creating lists are just a few of the things we can do wiht Makrdown. Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in, like # or * .
+HEADERS # This is an &amp;lt;h1&amp;gt; tag ## This is an &amp;lt;h2&amp;gt; tag ###### This is an &amp;lt;h3&amp;gt; tag  This is an &amp;lt;h1&amp;gt; tag This is an &amp;lt;h2&amp;gt; tag This is an &amp;lt;h3&amp;gt; tag </description>
+    </item>
+    
+  </channel>
+</rss>
