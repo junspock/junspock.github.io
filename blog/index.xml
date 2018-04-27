@@ -2,51 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Hugo Future Imperfect</title>
-    <link>/blog/</link>
+    <link>https://mz-jsp.github.io/blog/</link>
     <description>Recent content in Blog on Hugo Future Imperfect</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 20 Apr 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mz-jsp.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>마크다운 문법 요약</title>
-      <link>/blog/first_post/</link>
+      <link>https://mz-jsp.github.io/blog/first_post/</link>
       <pubDate>Fri, 20 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>/blog/first_post/</guid>
+      <guid>https://mz-jsp.github.io/blog/first_post/</guid>
       <description>Markdown is a way to style text on the web. You control the display of the document;formatting words as bold or italic, addinf images , and creating lists are just a few of the things we can do wiht Makrdown. Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in, like # or * .
 HEADERS # This is an &amp;lt;h1&amp;gt; tag ## This is an &amp;lt;h2&amp;gt; tag ###### This is an &amp;lt;h3&amp;gt; tag  This is an &amp;lt;h1&amp;gt; tag This is an &amp;lt;h2&amp;gt; tag This is an &amp;lt;h3&amp;gt; tag EMPHASIS *This text will be italic* _This will also be italic_ **This text will be bold** __This will also be bold__ *You **can** combine them*  Output will be like this :</description>
     </item>
     
     <item>
       <title>Creating a New Theme</title>
-      <link>/blog/creating-a-new-theme/</link>
+      <link>https://mz-jsp.github.io/blog/creating-a-new-theme/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>/blog/creating-a-new-theme/</guid>
+      <guid>https://mz-jsp.github.io/blog/creating-a-new-theme/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
 We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
     
     <item>
       <title>(Hu)go Template Primer</title>
-      <link>/blog/goisforlovers/</link>
+      <link>https://mz-jsp.github.io/blog/goisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>/blog/goisforlovers/</guid>
+      <guid>https://mz-jsp.github.io/blog/goisforlovers/</guid>
       <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
 This document is a brief primer on using go templates.</description>
     </item>
     
     <item>
       <title>Getting Started with Hugo</title>
-      <link>/blog/hugoisforlovers/</link>
+      <link>https://mz-jsp.github.io/blog/hugoisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>/blog/hugoisforlovers/</guid>
+      <guid>https://mz-jsp.github.io/blog/hugoisforlovers/</guid>
       <description>&lt;h2 id=&#34;step-1-install-hugo&#34;&gt;Step 1. Install Hugo&lt;/h2&gt;
 
 &lt;p&gt;Go to &lt;a href=&#34;https://github.com/spf13/hugo/releases&#34;&gt;hugo releases&lt;/a&gt; and download the
@@ -54,16 +54,16 @@ appropriate version for your os and architecture.&lt;/p&gt;
 
 &lt;p&gt;Save it somewhere specific as we will be using it in the next step.&lt;/p&gt;
 
-&lt;p&gt;More complete instructions are available at &lt;a href=&#34;/overview/installing/&#34;&gt;installing hugo&lt;/a&gt;
+&lt;p&gt;More complete instructions are available at &lt;a href=&#34;https://mz-jsp.github.io/overview/installing/&#34;&gt;installing hugo&lt;/a&gt;
 &lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Migrate to Hugo from Jekyll</title>
-      <link>/blog/migrate-from-jekyll/</link>
+      <link>https://mz-jsp.github.io/blog/migrate-from-jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>/blog/migrate-from-jekyll/</guid>
+      <guid>https://mz-jsp.github.io/blog/migrate-from-jekyll/</guid>
       <description>&lt;h2 id=&#34;move-static-content-to-static&#34;&gt;Move static content to &lt;code&gt;static&lt;/code&gt;&lt;/h2&gt;
 
 &lt;p&gt;Jekyll has a rule that any directory not starting with &lt;code&gt;_&lt;/code&gt; will be copied as-is to the &lt;code&gt;_site&lt;/code&gt; output. Hugo keeps all static content under &lt;code&gt;static&lt;/code&gt;. You should therefore move it all there.
